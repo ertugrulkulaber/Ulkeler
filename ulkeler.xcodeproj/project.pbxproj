@@ -16,6 +16,8 @@
 		87974452273561EB007E1D14 /* ulkelerTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 87974451273561EB007E1D14 /* ulkelerTests.swift */; };
 		8797445C273561EB007E1D14 /* ulkelerUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8797445B273561EB007E1D14 /* ulkelerUITests.swift */; };
 		8797445E273561EB007E1D14 /* ulkelerUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8797445D273561EB007E1D14 /* ulkelerUITestsLaunchTests.swift */; };
+		8797446B27356617007E1D14 /* ulkelerA.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8797446A27356617007E1D14 /* ulkelerA.swift */; };
+		8797446D27356727007E1D14 /* ulkelerVCTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8797446C27356727007E1D14 /* ulkelerVCTableViewCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +51,8 @@
 		87974457273561EB007E1D14 /* ulkelerUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ulkelerUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		8797445B273561EB007E1D14 /* ulkelerUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ulkelerUITests.swift; sourceTree = "<group>"; };
 		8797445D273561EB007E1D14 /* ulkelerUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ulkelerUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		8797446A27356617007E1D14 /* ulkelerA.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ulkelerA.swift; sourceTree = "<group>"; };
+		8797446C27356727007E1D14 /* ulkelerVCTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ulkelerVCTableViewCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +107,8 @@
 				8797443C273561EA007E1D14 /* SceneDelegate.swift */,
 				8797443E273561EA007E1D14 /* ViewController.swift */,
 				87974440273561EA007E1D14 /* Main.storyboard */,
+				8797446A27356617007E1D14 /* ulkelerA.swift */,
+				8797446C27356727007E1D14 /* ulkelerVCTableViewCell.swift */,
 				87974443273561EB007E1D14 /* Assets.xcassets */,
 				87974445273561EB007E1D14 /* LaunchScreen.storyboard */,
 				87974448273561EB007E1D14 /* Info.plist */,
@@ -260,6 +266,8 @@
 			files = (
 				8797443F273561EA007E1D14 /* ViewController.swift in Sources */,
 				8797443B273561EA007E1D14 /* AppDelegate.swift in Sources */,
+				8797446D27356727007E1D14 /* ulkelerVCTableViewCell.swift in Sources */,
+				8797446B27356617007E1D14 /* ulkelerA.swift in Sources */,
 				8797443D273561EA007E1D14 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
